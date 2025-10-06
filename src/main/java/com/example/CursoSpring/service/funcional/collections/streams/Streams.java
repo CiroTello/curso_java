@@ -1,4 +1,4 @@
-package com.example.CursoSpring.service.funcional.streams;
+package com.example.CursoSpring.service.funcional.collections.streams;
 
 import java.util.Arrays;
 import java.util.List;

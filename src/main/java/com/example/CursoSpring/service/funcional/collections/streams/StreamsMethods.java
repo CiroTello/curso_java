@@ -1,6 +1,9 @@
-package com.example.CursoSpring.service.funcional.streams;
+package com.example.CursoSpring.service.funcional.collections.streams;
+
+import com.example.CursoSpring.service.record.ProductDto;
 
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
