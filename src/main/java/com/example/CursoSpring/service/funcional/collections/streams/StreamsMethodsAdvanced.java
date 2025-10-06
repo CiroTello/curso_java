@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class StreamsMethodsAvanced {
+public class StreamsMethodsAdvanced {
     public static void main (String[] args) {
         List<ProductDto> products = List.of(
                 new ProductDto("Laptop", 1000),
