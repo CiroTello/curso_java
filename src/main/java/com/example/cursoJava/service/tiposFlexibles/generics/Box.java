@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.tiposFlexibles.genericos;
+package com.example.cursoJava.service.tiposFlexibles.generics;
 
 // Clase genérica que puede contener cualquier tipo de dato
 public class Box<T> {

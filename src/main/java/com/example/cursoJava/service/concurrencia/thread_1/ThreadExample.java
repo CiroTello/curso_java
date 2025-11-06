@@ -1,5 +1,9 @@
-package com.example.cursoJava.service.concurrencia.thread;
+package com.example.cursoJava.service.concurrencia.thread_1;
 
+/*
+    Extender la clase Thread para CREAR un hilo.
+    Se debe sobrescribir el método run() para definir la tarea que realizará el hilo.
+ */
 public class ThreadExample extends Thread{
     private String name;
 

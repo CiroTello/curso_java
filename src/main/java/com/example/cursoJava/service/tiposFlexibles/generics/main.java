@@ -1,9 +1,9 @@
-package com.example.cursoJava.service.tiposFlexibles.genericos;
+package com.example.cursoJava.service.tiposFlexibles.generics;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.example.cursoJava.service.tiposFlexibles.genericos.WildCardService.*;
+import static com.example.cursoJava.service.tiposFlexibles.generics.WildCardService.*;
 
 public class main {
 

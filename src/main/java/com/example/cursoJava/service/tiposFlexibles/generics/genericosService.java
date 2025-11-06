@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.tiposFlexibles.genericos;
+package com.example.cursoJava.service.tiposFlexibles.generics;
 
 import org.springframework.stereotype.Service;
 

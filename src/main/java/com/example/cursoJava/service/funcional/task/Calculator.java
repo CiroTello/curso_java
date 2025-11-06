@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.funcional.tareas;
+package com.example.cursoJava.service.funcional.task;
 
 public class Calculator {
 

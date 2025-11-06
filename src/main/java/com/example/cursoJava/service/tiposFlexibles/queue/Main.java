@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.tiposFlexibles.cola;
+package com.example.cursoJava.service.tiposFlexibles.queue;
 
 public class Main {
     public static void main(String[] args) {

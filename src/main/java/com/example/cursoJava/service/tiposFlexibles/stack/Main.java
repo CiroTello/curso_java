@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.tiposFlexibles.pila;
+package com.example.cursoJava.service.tiposFlexibles.stack;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.tiposFlexibles.pila;
+package com.example.cursoJava.service.tiposFlexibles.stack;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.cursoJava.service.tiposFlexibles.cola;
+package com.example.cursoJava.service.tiposFlexibles.queue;
 
 
 import java.util.LinkedList;
