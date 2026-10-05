@@ -10,6 +10,7 @@ public class LambdaExample {
                 return a * b;
             }
         };
+        System.out.println("Multiplication: " + multiplication.operate(5, 3));
 
         // Uso de la interfaz funcional con una expresión lambda
         Operation addition = (a, b) -> a + b;
@@ -28,9 +29,6 @@ public class LambdaExample {
             }
             return a / b;
         };
-
-
-
     }
 
     /*
